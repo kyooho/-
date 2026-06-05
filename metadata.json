@@ -1,0 +1,6 @@
+{
+  "name": "보행병원 무인 처방전 출력 시스템",
+  "description": "고령층 환자를 배려한 큰 글씨와 손쉬운 터치 방식의 보행병원 처방전 자동 무인 수납 인쇄 시스템 키오스크",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
